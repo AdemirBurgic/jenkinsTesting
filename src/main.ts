@@ -1,4 +1,4 @@
-import { enableProdMode } from '@angular/core'
+import { enableProdMode } from '@angular/core'asdasdasdasdasdadassd
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
 import { AppModule } from './app/app.module';
